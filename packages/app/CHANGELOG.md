@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [5.7.0](https://github.com/webiny/webiny-js/compare/v5.6.0...v5.7.0) (2021-05-19)
+
+
+### Features
+
+* **app:** add sizes attribute to the Image component ([#1617](https://github.com/webiny/webiny-js/issues/1617)) ([5460ded](https://github.com/webiny/webiny-js/commit/5460ded69d251cf5ac8e2e00f5cf26f6666d7581))
+
+
+
+
+
 # [5.6.0](https://github.com/webiny/webiny-js/compare/v5.6.0-beta.2...v5.6.0) (2021-05-10)
 
 **Note:** Version bump only for package @webiny/app

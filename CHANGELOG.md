@@ -3,6 +3,28 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [5.7.0](https://github.com/webiny/webiny-js/compare/v5.6.0...v5.7.0) (2021-05-19)
+
+
+### Bug Fixes
+
+* build only the packages folder during setup-project ([934723f](https://github.com/webiny/webiny-js/commit/934723f9fe0f0a44ad161a2f394307d51d5b0aa2))
+* **react-rich-text-renderer:** add missing config ([7092fc3](https://github.com/webiny/webiny-js/commit/7092fc38499f559958a2150016b549c532e32005))
+* handle partial import failure in webiny.project.ts ([b82bb7d](https://github.com/webiny/webiny-js/commit/b82bb7d42cf053c7f2263008dd72afd28794ddf8))
+
+
+### Features
+
+* **api-headless-cms:** pluginable crud operations ([#1544](https://github.com/webiny/webiny-js/issues/1544)) ([0244be8](https://github.com/webiny/webiny-js/commit/0244be813ec44dd57f3b2940c3308596bb2c8b09))
+* **api-headless-cms-ddb:** dynamodb storage operations ([#1571](https://github.com/webiny/webiny-js/issues/1571)) ([d171684](https://github.com/webiny/webiny-js/commit/d1716842176ae60a62d68c7560a39c5f098c89e6))
+* **api-headless-cms-ddb-es:** upgrade to 5.7.0 ([fbe8a0b](https://github.com/webiny/webiny-js/commit/fbe8a0b9013807b490bab00d7b90cd8834715168))
+* **app:** add sizes attribute to the Image component ([#1617](https://github.com/webiny/webiny-js/issues/1617)) ([5460ded](https://github.com/webiny/webiny-js/commit/5460ded69d251cf5ac8e2e00f5cf26f6666d7581))
+* improve drag & drop UX in the Page Builder navigator ([#1599](https://github.com/webiny/webiny-js/issues/1599)) ([e08fa06](https://github.com/webiny/webiny-js/commit/e08fa06ec0cd4154e97c89068b51c84e407a5b92))
+
+
+
+
+
 # [5.6.0](https://github.com/webiny/webiny-js/compare/v5.6.0-beta.2...v5.6.0) (2021-05-10)
 
 
